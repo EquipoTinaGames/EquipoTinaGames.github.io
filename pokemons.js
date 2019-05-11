@@ -407,5 +407,20 @@ var pokemons =
       "experience":218,
       "height":8,
       "weight":300
+   },
+   {  
+      "id":27,
+      "name":"Sandshrew",
+      "image":"images/pokemons/Sandsherw.png",
+      "types":[  
+         "ground"
+      ],
+      "abilities":[  
+         "lightning-rod",
+         "static"
+      ],
+      "experience":218,
+      "height":8,
+      "weight":300
    }
  ]

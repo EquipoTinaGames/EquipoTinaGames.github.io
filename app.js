@@ -12,6 +12,7 @@ var app = new Vue({
             bug: '#A8B820',
             normal: '#A8A878',
             electric: '#F8D030',
+            ground: '#C58100',
         },
     }
 });
