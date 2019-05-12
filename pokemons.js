@@ -422,5 +422,20 @@ var pokemons =
       "experience":218,
       "height":8,
       "weight":300
+   },
+   {  
+      "id":28,
+      "name":"Sandslash",
+      "image":"images/pokemons/Sandslash.png",
+      "types":[  
+         "ground"
+      ],
+      "abilities":[  
+         "lightning-rod",
+         "static"
+      ],
+      "experience":218,
+      "height":8,
+      "weight":300
    }
  ]
