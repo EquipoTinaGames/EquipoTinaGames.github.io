@@ -5,8 +5,8 @@ var pokemons =
        "name":"bulbasaur",
        "image":"images/pokemons/bulbasaur.png",
        "types":[
-          "poison",
-          "grass"
+          "grass",
+          "poison"
        ],
        "abilities":[
           "chlorophyll",
@@ -21,8 +21,8 @@ var pokemons =
        "name":"ivysaur",
        "image":"images/pokemons/ivysaur.png",
        "types":[
-          "poison",
-          "grass"
+         "grass",
+         "poison"
        ],
        "abilities":[
           "chlorophyll",
@@ -37,8 +37,8 @@ var pokemons =
        "name":"venusaur",
        "image":"images/pokemons/venusaur.png",
        "types":[
-          "poison",
-          "grass"
+         "grass",
+         "poison"
        ],
        "abilities":[
           "chlorophyll",
@@ -83,8 +83,8 @@ var pokemons =
        "name":"charizard",
        "image":"images/pokemons/charizard.png",
        "types":[
-          "flying",
-          "fire"
+          "fire",
+          "flying"
        ],
        "abilities":[
           "solar-power",
@@ -173,8 +173,8 @@ var pokemons =
        "name":"butterfree",
        "image":"images/pokemons/butterfree.png",
        "types":[
-          "flying",
-          "bug"
+          "bug",
+          "flying"
        ],
        "abilities":[
           "tinted-lens",
@@ -189,8 +189,8 @@ var pokemons =
        "name":"weedle",
        "image":"images/pokemons/weedle.png",
        "types":[
-          "poison",
-          "bug"
+          "bug",
+          "poison"
        ],
        "abilities":[
           "run-away",
@@ -205,8 +205,8 @@ var pokemons =
        "name":"kakuna",
        "image":"images/pokemons/kakuna.png",
        "types":[
-          "poison",
-          "bug"
+         "bug",
+         "poison"
        ],
        "abilities":[
           "shed-skin"
@@ -220,8 +220,8 @@ var pokemons =
        "name":"beedrill",
        "image":"images/pokemons/beedrill.png",
        "types":[
-          "poison",
-          "bug"
+         "bug",
+         "poison"
        ],
        "abilities":[
           "sniper",
@@ -236,8 +236,8 @@ var pokemons =
        "name":"pidgey",
        "image":"images/pokemons/pidgey.png",
        "types":[
-          "flying",
-          "normal"
+          "normal",
+          "flying"
        ],
        "abilities":[
           "big-pecks",
@@ -253,8 +253,8 @@ var pokemons =
        "name":"pidgeotto",
        "image":"images/pokemons/pidgeotto.png",
        "types":[
-          "flying",
-          "normal"
+         "normal",
+         "flying"
        ],
        "abilities":[
           "big-pecks",
@@ -270,8 +270,8 @@ var pokemons =
        "name":"pidgeot",
        "image":"images/pokemons/pidgeot.png",
        "types":[
-          "flying",
-          "normal"
+         "normal",
+         "flying"
        ],
        "abilities":[
           "big-pecks",
@@ -319,8 +319,8 @@ var pokemons =
        "name":"spearow",
        "image":"images/pokemons/spearow.png",
        "types":[  
-          "flying",
-          "normal"
+         "normal",
+         "flying"
        ],
        "abilities":[  
           "sniper",
@@ -335,8 +335,8 @@ var pokemons =
        "name":"fearow",
        "image":"images/pokemons/fearow.png",
        "types":[  
-          "flying",
-          "normal"
+         "normal",
+         "flying"
        ],
        "abilities":[  
           "sniper",
